@@ -1,0 +1,50 @@
+body
+{
+    text-align:center;
+    background-color: aqua;
+}
+img
+{
+  width:350px;
+    height:350px;
+}
+p
+{
+font-size:20px;
+    font-style:italic;
+    font-weight: bold;
+}
+ourcampus
+{
+    font-size:35px;
+}
+myNavbar
+{
+ 
+    position:fixed;
+}
+h1
+{
+    font-weight: bold;
+    background-color:burlywood;
+}
+.whatsnew {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.whatsnew i {
+    float: right;
+}
+
+.whatsnew span {
+    color: #ff7700;
+}
+.ul
+{
+    position:fixed;
+}
